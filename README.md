@@ -1,5 +1,15 @@
 # fm-chat-app-illustration (Chat App Illustration)
 
+## Design
+
+> Desktop
+
+![Desktop Design](./design/desktop-design.jpg)
+
+> Mobile
+
+![Mobile Design](./design/mobile-design.jpg)
+
 ## General
 
 My challenge is to build out this feature illustration using HTML & CSS and get it looking as close to the design as possible.
